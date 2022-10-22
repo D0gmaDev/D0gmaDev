@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as lead dev on [Elity](http://elity.fr)
 
-- 🌱 I’m currently in **Prépa MPSI in Paris**
+- 🌱 I’m currently in **Prépa MP in Paris**
 
 - 📫 How to reach me **d0gma@d0gma.fr**
 
