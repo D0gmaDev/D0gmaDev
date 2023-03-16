@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d0gmadev&label=Profile%20views&color=0e75b6&style=flat" alt="d0gmadev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/d0gmamc" target="blank"><img src="https://img.shields.io/twitter/follow/d0gmamc?logo=twitter&style=for-the-badge" alt="d0gmamc" /></a> </p>
-
-- 🔭 I’m currently working as lead dev on [Elity](http://elity.fr)
+- 🔭 I’m currently working as lead dev on Aluny
 
 - 🌱 I’m currently in **Prépa MP in Paris**
 
-- 📫 How to reach me **d0gma@d0gma.fr**
+- 📫 Reach me at **d0gma@d0gma.fr**
 
 - ⚡ Passion **Volley-Ball**
 
