@@ -1,14 +1,6 @@
-# David / D0gma_</h1>
+# David Marembert
 ## French Engineering Student
 
-- 🔭 I’m currently working at Ekalia
+🌱 I’m currently in **Engineering School**
 
-- 🌱 I’m currently in **Engineering School**
-
-- 📫 Reach me at **d0gma@d0gma.fr**
-
-- ⚡ Passion **Volley-Ball**
-
-## Languages and Tools
-
-Java, C, OCaml, Python, SQL & still learning...
+⚡ Passion **Volley-Ball**
